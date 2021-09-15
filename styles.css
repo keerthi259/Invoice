@@ -1,0 +1,99 @@
+body{
+  padding: 20px;
+  background-color: #58687E;
+  color: white;
+}
+/* main */
+.logo{
+  padding-left: 20%;
+}
+/* tabular */
+.tabular{
+  border-radius: 10px;
+  background-color: #273D49CC;
+  height: 100vh;
+}
+* {
+  box-sizing: border-box;
+}
+form.example input[type=text] {
+  color: white;
+  padding: 6px;
+  font-size: 17px;
+  border: 1px solid #97A1A9;
+  float: left;
+  width: 80%;
+  background: #273D49CC;
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 5px;
+  background: #273D49CC;
+  color: white;
+  font-size: 17px;
+  border: 1px solid #97A1A9;
+  border-left: none;
+  cursor: pointer;
+}
+.example{
+  position: absolute;
+  top: 0;
+  height: 65%;
+  display: flex;
+  align-items: center;
+}
+.formdiv{
+  margin-left: 57%;
+}
+.btn{
+  border: 1px solid #97A1A9;
+  background-color: #273D49CC;
+  margin-left: 25px;
+  margin-top: 30px;
+}
+.btn:hover{
+  background-color: #273D49CC;
+}
+.bimg{
+  color: #97A1A9;
+  padding-right: 10px;
+}
+.btext{
+  color: #97A1A9;
+}
+.btext:hover{
+  color: white;
+}
+/* table */
+.form-check-input{
+  background-color: #273D49CC;
+  border: 1.5px solid #97A1A9;
+}
+.headtable{
+  color: #97A1A9;
+}
+.table{
+  padding: 30px;
+}
+.h{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.box{
+  padding-left: 20px;
+}
+/* edit modal */
+.btn-secondary:hover{
+  background-color: #14AFF1;
+}
+/* add modal */
+.p{
+  padding-top: 10px;
+}
+.p1{
+  padding-top: 22px;
+}
